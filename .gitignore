@@ -1,0 +1,10 @@
+# macOS junk
+.DS_Store
+._*
+# editors
+.idea/
+.vscode/
+# local test artifacts
+*.bak
+*.bak.*
+test-output/
